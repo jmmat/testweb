@@ -1,6 +1,6 @@
 <?php
 function dbConnect() {
-    $db = "testdb";
+    $db = "defaultdb";
     $host = "localhost";
     $user = "root";
     $pass = "";
