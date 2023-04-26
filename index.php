@@ -148,7 +148,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>      
     
         <button type="submit" class="btn btn-primary">
-        SignUp
+        Sign Up
         </button> 
     </form> 
 </div>
