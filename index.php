@@ -123,7 +123,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 <div class="container my-4 ">
     
     <h1 class="text-center">Signup Here</h1> 
-    <form action="signup.php" method="post">
+    <form action="index.php" method="post">
     
         <div class="form-group"> 
             <label for="username">Username</label> 
