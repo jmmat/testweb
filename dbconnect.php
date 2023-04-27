@@ -22,6 +22,6 @@
         echo "success"; 
     } 
     else {
-        die("Error". mysqli_connect_error()); 
+        die("Error: ". mysqli_connect_error()); 
     } 
 ?>
